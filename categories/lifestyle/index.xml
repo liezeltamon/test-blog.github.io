@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Test blog</title>
-        <link>https://liezeltamon.github.io/test-blog.github.io/</link>
-        <description>Recent content on Test blog</description>
+        <title>Lifestyle on Test blog</title>
+        <link>https://liezeltamon.github.io/test-blog.github.io/categories/lifestyle/</link>
+        <description>Recent content in Lifestyle on Test blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 26 May 2025 15:01:56 +0100</lastBuildDate><atom:link href="https://liezeltamon.github.io/test-blog.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Second_post</title>
-        <link>https://liezeltamon.github.io/test-blog.github.io/posts/research/post_r/</link>
-        <pubDate>Mon, 26 May 2025 15:01:56 +0100</pubDate>
-        
-        <guid>https://liezeltamon.github.io/test-blog.github.io/posts/research/post_r/</guid>
-        <description>&lt;p&gt;Research content here.&lt;/p&gt;
-</description>
-        </item>
-        <item>
+        <lastBuildDate>Mon, 26 May 2025 14:05:41 +0100</lastBuildDate><atom:link href="https://liezeltamon.github.io/test-blog.github.io/categories/lifestyle/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Mypost</title>
         <link>https://liezeltamon.github.io/test-blog.github.io/posts/lifestyle/post_l/</link>
         <pubDate>Mon, 26 May 2025 14:05:41 +0100</pubDate>
